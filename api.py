@@ -1,5 +1,4 @@
 # filename: api.py
-"""A basic (single function) API written using hug"""
 import hug
 import mysql.connector ,json
 
